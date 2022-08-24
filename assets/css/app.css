@@ -37,7 +37,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #00c6ff, #328eff);
+  background: linear-gradient(to left, #6d9ba8, #6a8fbd);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -83,15 +83,15 @@ footer a {
 
 .container-color, .container-dark {
   padding: 100px 0;
-  color: #fff;
+  color: rgb(214, 205, 205);
 }
 
 .container-color {
-  background-color: #328eff;
+  background-color: #74f099;
 }
 
 .container-dark {
-  background-color: #343a40;
+  background-color: #5a5d61;
 }
 
 .card-title {
