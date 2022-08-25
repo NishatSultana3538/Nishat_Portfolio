@@ -5,7 +5,7 @@ html, body {
 body {
   margin: 5px;
   padding-bottom: 70px;
-  background-color: darkgray !important;
+  background-color: rgb(247, 242, 242) !important;
   }
 h1 {
   font-size:3em;
@@ -87,11 +87,11 @@ footer a {
 }
 
 .container-color {
-  background-color: #74f099;
+  background-color: #3a84a1;
 }
 
 .container-dark {
-  background-color: #5a5d61;
+  background-color: #222529;
 }
 
 .card-title {
